@@ -15,6 +15,7 @@ You may try to upload some images!
 - Express (back-end function)
 - CSS
 - HTML
+- MongoDB Atlas
 - Cloudinary
 
 ## How to 
